@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: me.jpg
-  image_circular: false # crops the image to make it circular
+  image: DanYaoProfile.png
+  image_circular: true # crops the image to make it circular
   address: true
 
 news: true  # includes a list of news items
