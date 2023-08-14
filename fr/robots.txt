@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://DanYaoHW.github.io/fr/sitemap.xml
