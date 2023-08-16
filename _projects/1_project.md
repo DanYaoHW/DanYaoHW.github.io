@@ -7,4 +7,4 @@ importance: 1
 category: work
 ---
 
-{% translate_file _projects/winds.md %}
+
