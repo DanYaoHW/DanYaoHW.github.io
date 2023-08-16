@@ -78,8 +78,8 @@ projects:
   descriptions:
     project1: WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification
   categories:
-    fun: fun
-    work: work
+    fun: 
+    work: 
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
