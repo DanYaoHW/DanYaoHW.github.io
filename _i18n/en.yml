@@ -74,9 +74,9 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: Super-Eddington Winds
+    project1: University Defence Research Collaboration (UDRC) 
   descriptions:
-    project1: In Type I X-ray bursts
+    project1: WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification
   categories:
     fun: fun
     work: work
