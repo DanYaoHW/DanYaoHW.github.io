@@ -74,12 +74,12 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: <a href="https://udrc.eng.ed.ac.uk/"> University Defence Research Collaboration (UDRC) </a>
+    project1: University Defence Research Collaboration (UDRC) 
   descriptions:
-    project1:  <a href = "https://udrc.eng.ed.ac.uk/research"> WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification </a>
+    project1:  WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification 
   categories:
-    fun: 
-    work: 
+    fun: fun
+    work: work
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
