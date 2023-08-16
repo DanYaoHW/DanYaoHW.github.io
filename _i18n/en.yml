@@ -74,7 +74,7 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: University Defence Research Collaboration (UDRC) 
+    project1: </span> <a href="https://udrc.eng.ed.ac.uk/"> University Defence Research Collaboration (UDRC)  </a> </span>
   descriptions:
     project1:  WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification 
   categories:
