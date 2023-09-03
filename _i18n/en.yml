@@ -78,7 +78,7 @@ projects:
   descriptions:
     project1:  <a href = "https://udrc.eng.ed.ac.uk/research"> WP1.1 Scalable solutions for probabilistic modelling and uncertainty quantification </a> 
   categories:
-    fun: 
+    fun: fun
     work: work
 repositories:
   users: GitHub Users
